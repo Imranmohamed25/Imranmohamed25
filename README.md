@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imranmohamed M</h1>
 <h3 align="center">A passionate Frontend developer and Graphic Designer</h3>
 
-<p align="left"> <img src="https://tenor.com/view/developer-gif-23414225" alt="imranmohamed25" /> </p>
+<p align="left"> <img src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif" alt="imranmohamed25" /> </p>
 
 - 🔭 I’m currently working on **Frontend project**
 
